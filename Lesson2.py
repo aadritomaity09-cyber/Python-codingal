@@ -1,4 +1,5 @@
-print("Hi,Aadrito")
-print(10)
-print("I like playing with Lego \n I also like playing video games")
-print("I am ",10,"years old")
+# user input
+Name=input("enter your name:")
+a=int(input("enter your age:"))
+marks=float(input("enter your marks:"))
+print(Name,a,marks)
