@@ -1,0 +1,12 @@
+tuplex=(14,3.14,"Hello",True)
+print(tuplex)
+tuplex2=(1,2,34,5,6)
+print(tuplex2)
+t3=(9,)
+t4=t3+tuplex2
+print(t4)
+tuples1=(1,2,34,50,8,25,40,95,50,62,50,83,86,50)
+c1=tuples1.count(50)
+print(c1)
+print(tuples1[3:12])
+print(tuples1[:12])
