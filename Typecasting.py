@@ -10,12 +10,12 @@ print(age)
 print(type(Weight))
 print(Weight)
 
-s=True
+m=True
 print(type(s))
 a=str(s)
 print(type(a))
-i=10
+g=10
 print(type(i))
-f=float(i)
+i=float(i)
 print(type(f))
 print(f)
