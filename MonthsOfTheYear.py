@@ -1,1 +1,3 @@
-print("The months of the year are January,February,March,April,May,June,July,August,September,October,November,December")
+import calendar
+year_calendar = calendar.calendar(2026)
+print(year_calendar)
